@@ -1,0 +1,27 @@
+Prerequisities
+
+- Text editor (VS Code, Atom, Sublime Text, Notepad)
+- Web Browser
+
+
+TODOS
+
+1.  Buld the project
+    - creating the folder
+    - adding files 
+    - connecting files
+
+2.  Navbar
+    -2 links and a name
+
+3.  Portfolio
+    - images
+    - titles
+    - descriptions
+    - animations
+    - javascript
+
+4. About page
+    - images
+    - split coloum layout
+    - content
